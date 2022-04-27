@@ -1,2 +1,1 @@
-# michael.rocchio
-Welcome!
+My first attempt at HTML and CSS.
